@@ -16,7 +16,6 @@ I'm a passionate developer focused on building clean, practical, and user-friend
 
 -  Currently deepening my knowledge of **React, TypeScript, Firebase, and frontend architecture**
 -  Building full-stack projects with a focus on **performance, usability, and maintainable code**
--  Happy to discuss **Python, Java, SQL, JavaScript, Firebase, and web development**
 -  Always learning, experimenting, and looking for the next meaningful problem to solve
 
 
