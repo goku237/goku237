@@ -12,9 +12,13 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Learning **Frontend Dev | React | TypeScript | Firebase**
-- 💬 Ask me about **Python, SQL, JavaScript, Firebase, Web Apps**
-- ⚡ Fun fact: **I build projects faster than I plan them 😂**
+I'm a passionate developer focused on building clean, practical, and user-friendly web applications. I enjoy turning ideas into reliable digital products, exploring modern development tools, and continuously strengthening my foundations in software engineering.
+
+-  Currently deepening my knowledge of **React, TypeScript, Firebase, and frontend architecture**
+-  Building full-stack projects with a focus on **performance, usability, and maintainable code**
+-  Happy to discuss **Python, Java, SQL, JavaScript, Firebase, and web development**
+-  Always learning, experimenting, and looking for the next meaningful problem to solve
+
 
 ---
 
@@ -22,6 +26,7 @@
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
