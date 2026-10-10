@@ -49,21 +49,6 @@
 
 ---
 
-# 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goku237&theme=tokyonight&hide_border=false" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goku237&theme=tokyonight&hide_border=false&layout=compact" height="160px"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=goku237&theme=dracula&column=4&margin-w=10&margin-h=10" />
-</p>
-
-
-
 ---
 
 ## 🌐 Connect With Me
@@ -75,10 +60,6 @@
 
 ---
 
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=goku237&style=for-the-badge&color=blueviolet" />
-</p>
 
 
 
